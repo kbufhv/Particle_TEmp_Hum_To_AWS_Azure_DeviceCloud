@@ -1,6 +1,6 @@
 # Particle_Temp_Hum_To_AWS_Azure_Device_Cloud
 
-A Particle project named Particle_Temp_Hum_To_AWS_Azure_Device_Cloud
+A Particle project to use the data gathered by the temperature and humidity sensor in connection with AWS IoT-Core, Azure IoT-Hub and an ThingSpeak Webhook.
 
 ## Welcome to your project!
 
@@ -33,4 +33,4 @@ When you're ready to compile your project, make sure you have the correct Partic
 - Everything in the `/src` folder, including your `.ino` application file
 - The `project.properties` file for your project
 - Any libraries stored under `lib/<libraryname>/src`
-# Particle_TEmp_Hum_To_AWS_Azure_DeviceCloud
+
