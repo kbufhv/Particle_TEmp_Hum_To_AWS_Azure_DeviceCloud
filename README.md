@@ -1,6 +1,6 @@
 # Particle_Temp_Hum_To_AWS_Azure_Device_Cloud
 
-A Particle project to use the data gathered by the temperature and humidity sensor in connection with AWS IoT-Core, Azure IoT-Hub and an ThingSpeak Webhook.
+A Particle project to use the data gathered by the temperature and humidity sensor in connection with AWS IoT-Core, Azure IoT-Hub and Particle Device Cloud.
 
 ## Welcome to your project!
 
